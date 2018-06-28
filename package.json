@@ -1,5 +1,5 @@
 {
-  "name": "zcrmsdk",
+  "name": "wtc-zcrmsdk",
   "version": "0.0.5",
   "description": "Node SDK for Zoho CRM",
   "main": "lib/js/ZCRMRestClient",
@@ -11,12 +11,6 @@
     "redis": "^2.8.0",
     "request": "^2.81.0"
   },
-  "keywords": [
-    "Node",
-    "Zoho",
-    "CRM",
-    "OAuth2",
-    "API"
-  ],
-  "author": "Zoho CRM API Team (support@zohocrm.com)"
+  "keywords": ["Node", "Zoho", "CRM", "OAuth2", "API"],
+  "author": "Zoho CRM API Team (soufiane.fadil@waystocap.com)"
 }
